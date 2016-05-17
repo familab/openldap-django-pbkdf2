@@ -70,7 +70,7 @@ $ ldapsearch -x -b "dc=example,dc=com" -D "cn=Manager,dc=example,dc=com" -w secr
 ~~~
 
 # Debugging
-You can specify -DSLAPD_PBKDF2_DEBUG flag for debugging.
+You can specify -DSLAPD_DJANGO_PBKDF2_DEBUG flag for debugging.
 
 # Message Format
 
